@@ -8,9 +8,7 @@ var app = require("../app");
 var debug = require("debug")("comp2930-team2:server");
 var http = require("http");
 
-var players = {
-    
-};
+var players = {};
 ///Code below will be put into different channels in the future to implement another game
 var count = 0;
 // var increaseX = 200;
